@@ -1,0 +1,25 @@
+{
+  "name": "com.jeanlab.integrity",
+  "version": "0.1.0",
+  "displayName": "Integrity",
+  "description": "Validates SerializeField assignments and prevents Play mode / Build when references are missing.",
+  "unity": "2021.3",
+  "license": "MIT",
+  "documentationUrl": "https://github.com/kwj7848/Integrity#readme",
+  "changelogUrl": "https://github.com/kwj7848/Integrity/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/kwj7848/Integrity/blob/main/LICENSE.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kwj7848/Integrity.git"
+  },
+  "keywords": [
+    "validation",
+    "safety",
+    "serialize-field",
+    "build-check"
+  ],
+  "author": {
+    "name": "JeanLab",
+    "email": "kwj7848@gmail.com"
+  }
+}
